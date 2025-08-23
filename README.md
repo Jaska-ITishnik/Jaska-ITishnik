@@ -4,7 +4,7 @@ I have graduated PDP Academy python (backend) and now i am a student of Tashkent
 
 Skills: PYTHON / POSTGRESQL/ DRF/ DJANGO / HTML / CSS
 
-- 🌱 I’m currently learning DRF (Django Rest Framework) 
+- 🌱 I’m currently learning Websoket
 - 📫 How to reach me: jasurbekbekmirzayev2004@gmail.com
 - <img src='https://github.com/user-attachments/assets/8f6da42f-4096-4f43-874c-8eb0bebc0871' alt='github' weight='20' height='20'> Linkedin: https://www.linkedin.com/in/jasurbek-bekmirzayev-9a442632b/
 - <img src='https://github.com/user-attachments/assets/26185c39-eac3-4f97-86c8-4622cdb73c9a' alt='github' weight='20' height='20'> LeetCode: https://leetcode.com/u/Jaska-ITishnik/
