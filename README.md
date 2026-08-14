@@ -54,6 +54,11 @@ I build reliable backend applications and REST APIs with Python.
 
 <div align="center">
 
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaska-ITishnik&theme=tokyonight" alt="GitHub profile summary" />
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaska-ITishnik&theme=tokyonight" alt="GitHub statistics" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaska-ITishnik&theme=tokyonight" alt="Repositories by language" />
+
 </div>
 
 > GitHub language statistics show the languages used in public repositories; they do not represent overall proficiency.
