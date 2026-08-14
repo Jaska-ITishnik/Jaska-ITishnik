@@ -54,11 +54,6 @@ I build reliable backend applications and REST APIs with Python.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaska-ITishnik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jasurbek's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaska-ITishnik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jasurbek's most used languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaska-ITishnik&theme=tokyonight&hide_border=true" alt="Jasurbek's GitHub contribution streak" />
-
 </div>
 
 > GitHub language statistics show the languages used in public repositories; they do not represent overall proficiency.
