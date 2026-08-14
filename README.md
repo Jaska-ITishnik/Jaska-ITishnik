@@ -1,14 +1,83 @@
-### Hi there 👋, I am Jasurbek backend python developer
+<div align="center">
 
-I have graduated PDP Academy python (backend) and now i am a student of Tashkent Information Technology University
+# Hi, I'm Jasurbek Bekmirzayev 👋
 
-Skills: PYTHON / POSTGRESQL/ DRF/ DJANGO / HTML / CSS
+### Python Backend Developer · Django & DRF
 
-- 📫 How to reach me: jasurbekbekmirzayev2004@gmail.com
-- <img src='https://github.com/user-attachments/assets/8f6da42f-4096-4f43-874c-8eb0bebc0871' alt='github' weight='20' height='20'> Linkedin: https://www.linkedin.com/in/jasurbek-bekmirzayev-9a442632b/
-- <img src='https://github.com/user-attachments/assets/26185c39-eac3-4f97-86c8-4622cdb73c9a' alt='github' weight='20' height='20'> LeetCode: https://leetcode.com/u/Jaska-ITishnik/
-- <img src='https://github.com/user-attachments/assets/28c73cbb-b97a-4b17-890a-feb7bd0f5726' alt='github' weight='20' height='20'> Telegram: https://t.me/Jaska_ITishnik
-- <img src='https://github.com/user-attachments/assets/9c0b17d5-a9ca-4562-83d6-6cb41d6405a5' alt='github' weight='20' height='20'> GitHub: https://github.com/Jaska-ITishnik/
+I build reliable backend applications and REST APIs with Python.
 
-## Technologies
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Jaska-ITishnik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/Jaska-ITishnik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](https://www.postgresql.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redis.svg' alt='redis' height='40'>](https://redis.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rabbitmq.svg' alt='rabbitmq' height='40'>](https://www.rabbitmq.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://www.linux.org/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasurbek-bekmirzayev-9a442632b/)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jaska_ITishnik)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasurbekbekmirzayev2004@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Jaska-ITishnik/)
+
+![Profile views](https://komarev.com/ghpvc/?username=Jaska-ITishnik&style=flat-square&color=0e75b6)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🐍 Python backend developer focused on **Django** and **Django REST Framework**
+- 🎓 Graduate of **PDP Academy's Python Backend** program
+- 🏫 Student at **Tashkent University of Information Technologies**
+- 🗄️ Interested in backend architecture, databases, APIs, and scalable systems
+- 🌱 Currently strengthening my knowledge of advanced Python and backend engineering
+- 💬 Ask me about **Python, Django, DRF, PostgreSQL, and REST APIs**
+- 📍 Based in **Tashkent, Uzbekistan**
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Tools & Web
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaska-ITishnik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jasurbek's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaska-ITishnik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jasurbek's most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaska-ITishnik&theme=tokyonight&hide_border=true" alt="Jasurbek's GitHub contribution streak" />
+
+</div>
+
+> GitHub language statistics show the languages used in public repositories; they do not represent overall proficiency.
+
+## 🤝 Let's Connect
+
+I'm open to backend development opportunities, collaboration, and conversations about Python and Django.
+
+- 📧 **Email:** [jasurbekbekmirzayev2004@gmail.com](mailto:jasurbekbekmirzayev2004@gmail.com)
+- 💼 **LinkedIn:** [Jasurbek Bekmirzayev](https://www.linkedin.com/in/jasurbek-bekmirzayev-9a442632b/)
+- ✈️ **Telegram:** [@Jaska_ITishnik](https://t.me/Jaska_ITishnik)
+- 🧩 **LeetCode:** [Jaska-ITishnik](https://leetcode.com/u/Jaska-ITishnik/)
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+<sub>Made with focus, curiosity, and Python.</sub>
+
+</div>
