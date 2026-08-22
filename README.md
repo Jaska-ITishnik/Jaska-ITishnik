@@ -19,13 +19,19 @@ I build reliable backend applications and REST APIs with Python.
 
 ## 👨‍💻 About Me
 
-- 🐍 Python backend developer focused on **Django** and **Django REST Framework**
-- 🎓 Graduate of **PDP Academy's Python Backend** program
-- 🏫 Student at **Tashkent University of Information Technologies**
-- 🗄️ Interested in backend architecture, databases, APIs, and scalable systems
-- 🌱 Currently strengthening my knowledge of advanced Python and backend engineering
-- 💬 Ask me about **Python, Django, DRF, PostgreSQL, and REST APIs**
-- 📍 Based in **Tashkent, Uzbekistan**
+* 🚀 Full-stack developer specializing in **Python, Django, Django REST Framework, and modern JavaScript**
+* 🤖 Building intelligent applications with **AI integrations, AI agents, automation, and LLM-powered features**
+* 🏗️ Experienced in designing and delivering **production-ready backend architectures, REST APIs, admin systems, and real-time features**
+* 🌐 Developed and deployed commercial projects, including public platforms, internal CRM systems, logistics services, and Telegram bots
+* 🧑‍🤝‍🧑 Comfortable working both independently and in development teams, from system design to production deployment
+* 🗄️ Working with **PostgreSQL, Redis, WebSockets, Docker, Linux, CI/CD, and VPS infrastructure**
+* ⚙️ Interested in scalable systems, clean architecture, database optimization, API design, and AI-assisted workflows
+* 📚 Currently deepening my knowledge of **advanced Python, system design, networking, cloud technologies, and AI engineering**
+* 🎓 Graduate of **PDP Academy’s Python Backend** program
+* 🏫 Student at **Tashkent University of Information Technologies**
+* 💬 Ask me about **Python, Django, DRF, PostgreSQL, REST APIs, deployment, or AI integration**
+* 📍 Based in **Tashkent, Uzbekistan**
+
 
 ## 🛠️ Tech Stack
 
